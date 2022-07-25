@@ -207,7 +207,7 @@ li {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 
 .pb-0 {
@@ -2469,14 +2469,14 @@ line-height:26px;
 }
 .page-title .title-text h1 {
   position: relative;
-  font-size: 40px;
+  font-size: 45px;
   color: #ffffff;
   line-height: 50px;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   margin-bottom: 10px;
   letter-spacing: 1px;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Crushed', sans-serif;
 }
 .page-title .title-text .title-menu {
   padding-left: 0;
